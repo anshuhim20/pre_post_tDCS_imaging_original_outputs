@@ -1,0 +1,18 @@
+=====[ /home/DST-CSRI/DST_CSRI/Analysis/TBFC/ENC_STC.gfeat/cope6.feat/results/thresh_zstat2.nii.gz | Harvard-Oxford Cortical Structural Atlas ]=====
+ClusterIndex	Voxels	MAX	MAX X (mm)	MAX Y (mm)	MAX Z (mm)	COG X (mm)	COG Y (mm)	COG Z (mm)
+1	452	3.55	10	-16	40	7.88	-14.2	39.3
+------------------------------------------
+Structures to which each center of mass belongs to:
+1,7.88,-14.2,39.3,Harvard-Oxford Cortical Structural Atlas,28% Cingulate Gyrus, posterior division, 25% Cingulate Gyrus, anterior division, 4% Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex), 3% Precentral Gyrus
+------------------------------------------
+Structures to which each cluster belongs to:
+
+Cluster #1
+Precentral Gyrus:3.0310
+Postcentral Gyrus:0.0774
+Supramarginal Gyrus, anterior division:0.0088
+Supramarginal Gyrus, posterior division:0.0044
+Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex):1.9248
+Cingulate Gyrus, anterior division:18.0199
+Cingulate Gyrus, posterior division:16.2987
+Precuneous Cortex:0.0265

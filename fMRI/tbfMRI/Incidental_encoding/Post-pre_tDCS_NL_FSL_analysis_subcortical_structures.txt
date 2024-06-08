@@ -1,0 +1,14 @@
+=====[ /home/DST-CSRI/DST_CSRI/Analysis/TBFC/ENC_STC.gfeat/cope6.feat/results/thresh_zstat2.nii.gz | Harvard-Oxford Subcortical Structural Atlas ]=====
+ClusterIndex	Voxels	MAX	MAX X (mm)	MAX Y (mm)	MAX Z (mm)	COG X (mm)	COG Y (mm)	COG Z (mm)
+1	452	3.55	10	-16	40	7.88	-14.2	39.3
+------------------------------------------
+Structures to which each center of mass belongs to:
+1,7.88,-14.2,39.3,Harvard-Oxford Subcortical Structural Atlas,63% Right Cerebral Cortex, 37% Right Cerebral White Matter
+------------------------------------------
+Structures to which each cluster belongs to:
+
+Cluster #1
+Left Cerebral White Matter:15.8209
+Left Cerebral Cortex:13.6883
+Right Cerebral White Matter:42.9875
+Right Cerebral Cortex:27.2810
